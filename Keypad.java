@@ -16,7 +16,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JButton;// program uses Scanner to obtain user input
 
-public class Keypad 
+public class Keypad !!!
 {
    private Scanner input; // reads data from the command line
    private String userinput;

@@ -34,7 +34,7 @@ public class BalanceInquiry extends Transaction
       
       
       screen.creatBalanceGUI();
-      screen.messageJLabel2.setText("Avaliable Balance: " + availableBalance);
+      screen.messageJLabel2.setText("Available Balance: " + availableBalance);
       screen.messageJLabel3.setText("Total Balance: " + totalBalance);
       screen.Mainframe.revalidate();
       

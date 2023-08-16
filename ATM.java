@@ -70,7 +70,7 @@ public class ATM
 	   
 	   
 	   position = 0;
-	   screen.createlogin();
+	   screen.create login();
 	   userinput = "";
 	   
 	   authenticate check = new authenticate();
